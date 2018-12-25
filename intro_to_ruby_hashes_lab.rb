@@ -3,7 +3,7 @@ hash = {}
 end
 
 def actor
-acotor= {name: =  "Dway
+acotor= {name:  "Dway
 ne The Rock Johnson"}
 end
 
